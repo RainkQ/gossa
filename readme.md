@@ -1,5 +1,5 @@
 gossa
-=============
+============
 
 ![e](https://user-images.githubusercontent.com/760637/71449335-790a4200-274a-11ea-80be-4c536fbad8a1.gif)
 
