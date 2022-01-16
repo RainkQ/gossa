@@ -1,4 +1,4 @@
 [submodule "gossa-ui"]
 	path = gossa-ui
-	url = https://github.com/pldubouilh/gossa-ui
+	url = https://github.com/RainkQ/gossa-ui
 	branch = master
